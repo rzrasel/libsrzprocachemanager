@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-public class ProMemoryCache {
+class ProMemoryCache {
     private static String skipClassName = "";
     private static String skipMethodName = "";
     private static String methodName = "methodName-var";

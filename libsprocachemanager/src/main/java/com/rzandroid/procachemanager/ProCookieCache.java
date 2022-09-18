@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-class ProCookieCache {
+public class ProCookieCache {
     private CookieManager cookieManager;
     private String baseUrl = null;
     private HashMap<String, String> cookieDataMap = new HashMap<String, String>();
